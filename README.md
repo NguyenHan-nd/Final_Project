@@ -1,3 +1,3 @@
 # Final_Project
 
-Code for Automatic Multiple Scoring Machine
+Code for Automatic Multiple Choices Scoring Machine
